@@ -1,4 +1,4 @@
-package com.activemesa;
+package com.activemesa.creational.factories;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
