@@ -1,3 +1,4 @@
+/*
 package com.activemesa.structural.bridge;
 
 import com.google.inject.AbstractModule;
@@ -82,3 +83,4 @@ class BridgeDemo {
         instance.draw();
     }
 }
+*/
